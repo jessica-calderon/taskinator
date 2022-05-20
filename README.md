@@ -15,6 +15,9 @@ A website that allows users to set and manage a tasks list.
 # Website
 https://jessica-calderon.github.io/taskinator
 
+# Website Screenshot
+![index](/assets/images/taskinator.gif)
+
 # Contribution
 Made by Jessica E. Calderon
 
